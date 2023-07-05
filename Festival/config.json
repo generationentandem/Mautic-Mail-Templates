@@ -1,0 +1,9 @@
+{
+  "name": "Generationenfestival",
+  "author": "Caspar Brenneisen",
+  "authorUrl": "http://generationentandem.ch",
+  "builder": ["grapesjsbuilder"],
+  "features": [
+    "email"
+  ]
+}

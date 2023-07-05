@@ -1,0 +1,1 @@
+# Generationenfestival theme for Mautic
