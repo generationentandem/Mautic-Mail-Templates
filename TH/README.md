@@ -1,0 +1,1 @@
+# Technikhilfe theme for Mautic
